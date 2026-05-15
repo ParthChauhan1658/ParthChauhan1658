@@ -2,7 +2,7 @@
 
 **AI Engineer** · LLM Systems · RAG Pipelines · Agentic AI
 
-B.Tech IT @ DJSCE Mumbai (SGPA 9.33) · SWE Intern @ Adorn By You
+B.Tech IT @ DJSCE Mumbai (CGPA 9.05)(SGPA 9.33) · SWE Intern @ Adorn By You
 
 ---
 
